@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 610.78 717.39">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-width: 15px;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        fill: none;
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        stroke-width: 20px;
+      }
+
+      .cls-3 {
+        stroke-linecap: round;
+        stroke-width: 12px;
+      }
+
+      .cls-4 {
+        stroke-width: 25px;
+      }
+    </style>
+  </defs>
+  <path class="cls-4" d="m132.62,226.71c-111.76,48.6-44.46,158.69-18.86,177.29,2.76,2,5,6.58,5.06,10.15l3.11,197.9s3.56,28.26,28.44,31.71c10.26,1.42,254.15.69,284.69.59,2.15,0,4.05-1.25,6.19-1.37,13.64-.74,29.97-14.77,33.66-27.14,6.46-21.68.11-199.9.11-199.9,0,0,116.87-85.29,14.68-179.84-4.13-3.82-15.16-8.82-20.4-11.13-47.24-20.84-236.95-41.63-336.68,1.74Z"/>
+  <polyline class="cls-2" points="199.36 499.3 243.09 526.49 193.14 527.42"/>
+  <polyline class="cls-2" points="410.77 499.3 366.53 527.75 417.58 528.85"/>
+  <ellipse class="cls-1" cx="214.93" cy="578.73" rx="12.26" ry="13.69"/>
+  <ellipse class="cls-1" cx="392.33" cy="578.73" rx="12.26" ry="13.69"/>
+  <path class="cls-3" d="m273.75,565.03s-4.15,29.54,27.15,30.59c30.36,1.02,22.06-30.59,22.06-30.59"/>
+</svg>
