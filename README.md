@@ -1,4 +1,4 @@
-# Romero_Camila_Icon_Market
+# Romero_Camila_Kawaii_Icon_Market
 
 SVG and Javascript first assignment
 
