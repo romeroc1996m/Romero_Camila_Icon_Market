@@ -19,20 +19,13 @@
 body {
     background-image: url("../images/background.jpg") ;
     background-size: cover;
-    font-family: 'Spectral', Arial, Helvetica, sans-serif, serif;
+    font-family: 'Anton', sans-serif;
     font-size: 18px;
 }
 
 .container {
     width: 1200px;
     margin: 0 auto;
-}
-
-.box-color {
-    border: 4px solid rgb(248, 215, 236) ;
-    border-radius: 10%;
-    color: white;
-    text-align: center;   
 }
 
 /* 2. ---Grid--- */
@@ -86,11 +79,13 @@ the grid using CSS. It is a class becasue we will use multiple grids */
 /* 4. ---Icons--- */
 
     #main-title {
-        margin-top: 10px;
+        margin-top: 100px;
+        grid-column: 6/10;
+        font-size: 30px;
     }
 
     #icon-con {
-        margin-top: 100px;
+        margin-top: 15px;
     }
 
     .icons {
@@ -102,6 +97,19 @@ the grid using CSS. It is a class becasue we will use multiple grids */
 
     .icon {
         width: 50%;
+    }
+
+    .box-color {
+        border: 4px solid rgb(248, 215, 236) ;
+        border-radius: 10%;
+        color: white;
+        text-align: center;   
+    }
+
+    .icons:hover {
+        background-color: pink;
+        transition: transform 0.3s ease;
+        cursor: pointer;
     }
 
 /* 5. ---Footer--- */
