@@ -108,7 +108,6 @@ the grid using CSS. It is a class becasue we will use multiple grids */
 
     .icons:hover {
         background-color: pink;
-        transition: transform 0.3s ease;
         cursor: pointer;
     }
 
