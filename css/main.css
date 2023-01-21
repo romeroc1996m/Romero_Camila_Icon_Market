@@ -110,11 +110,10 @@ the grid using CSS. It is a class becasue we will use multiple grids */
         background-color: pink;
     }
 
-    #footer-con-full {
-        height: 90px;
+    #footer {
         grid-column: 1/-1;
-        position: static;
         margin-top: 35px;
+        
     }
 
     #footer-nav {
