@@ -96,8 +96,8 @@ the grid using CSS. It is a class becasue we will use multiple grids */
     }
 
     .icon {
-        width: 10%; 
-        margin-left: 15%;
+        width: 60%; 
+        margin-left: 25%;
     }
 
     .box-color {
